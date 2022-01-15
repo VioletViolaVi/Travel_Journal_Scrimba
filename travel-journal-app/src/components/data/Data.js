@@ -1,6 +1,8 @@
 const Data = [
   {
     id: 1,
+    locationImagelink:
+      "https://images.unsplash.com/photo-1570459027562-4a916cc6113f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
     locationImage: "mountain.jpg",
     altAndTitle: "Mount Fuji",
     countryName: "japan".toUpperCase(),
