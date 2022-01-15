@@ -1,8 +1,6 @@
 import mountain from "../images/mountain.jpg";
-import Data from "../data/Data";
 
-const Main = () => {
-  console.log(Data);
+const Main = (props) => {
   return (
     <main>
       <section>
@@ -27,7 +25,7 @@ const Main = () => {
             </a>
           </li>
           <li>
-            <h1 className="location-name">Mount Fuji</h1>
+            <h1 className="location-name">{props.altAndTitle}</h1>
           </li>
           <li>
             <p className="date">12 Jan, 2021 - 24 Jan, 2021</p>
