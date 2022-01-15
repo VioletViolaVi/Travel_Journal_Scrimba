@@ -1,4 +1,4 @@
-# Travel_Journal_Scrimba
+# Travel Journal Scrimba
 
 This project is about creating a data driven Travel Journal displaying iconic locations and landscapes as well as information on them. This website uses React, HTML5, CSS3 and other technologies. This project was assigned by Scrimba and is located on their Learn React course.
 
