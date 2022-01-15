@@ -7,7 +7,13 @@ const Main = () => {
     <main>
       <section>
         <figure>
-          <img src={mountain} alt={"Mount Fuji"} className="travel-image" />
+          <a
+            href="https://images.unsplash.com/photo-1570459027562-4a916cc6113f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={mountain} alt={"Mount Fuji"} className="travel-image" />
+          </a>
         </figure>
         <ul className="travel-info">
           <li>
