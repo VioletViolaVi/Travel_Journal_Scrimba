@@ -43,6 +43,7 @@ body {
 
 .travel-info {
   list-style: none;
+  margin-top: 1.5rem;
 }
 
 .travel-info li:first-child {

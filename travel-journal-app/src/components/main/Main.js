@@ -1,6 +1,8 @@
 import mountain from "../images/mountain.jpg";
+import Data from "../data/Data";
 
 const Main = () => {
+  console.log(Data);
   return (
     <main>
       <section>
