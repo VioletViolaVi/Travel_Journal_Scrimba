@@ -10,6 +10,7 @@
 body {
   font-family: "Mochiy Pop P One", sans-serif;
   color: #000000;
+  cursor: default;
 }
 
 /*************************************************************** header */
@@ -85,4 +86,5 @@ body {
 
 .location-para {
   line-height: 1.9rem;
+  margin-bottom: 2rem;
 }
