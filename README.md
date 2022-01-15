@@ -10,10 +10,10 @@ This project is about creating a data driven Travel Journal displaying iconic lo
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Figma](https://www.figma.com/)
 - [Chrome Development Tools](https://developer.chrome.com/docs/)
+- [Font Awesome](https://fontawesome.com/)
 - [VS Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Unsplash](https://unsplash.com/)
   - [Photo by ]()
     <!-- - [Google Fonts](https://fonts.google.com/) -->
-    <!-- - [Font Awesome](https://fontawesome.com/) -->
