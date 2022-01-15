@@ -9,7 +9,8 @@ const Main = () => {
         </figure>
         <ul>
           <li>
-            <i class="fas fa-map-marker-alt"></i> <span>JAPAN</span>{" "}
+            <i class="fas fa-map-marker-alt"></i>
+            <span>JAPAN</span>
             <span>View on Google Maps</span>
           </li>
           <li>
