@@ -1,8 +1,8 @@
 const Header = () => {
   return (
-    <header>
-      <i class="fas fa-globe-americas"></i>
-      <p>My Travel Journal</p>
+    <header className="header-bg">
+      <i className="fas fa-globe-americas"></i>
+      <p className="top-title">My Travel Journal</p>
     </header>
   );
 };
