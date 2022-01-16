@@ -2,7 +2,7 @@ const Data = [
   {
     id: 1,
     imageLink:
-      "https://images.unsplash.com/photo-1570459027562-4a916cc6113f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+      "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     image: "mountain.jpg",
     altAndTitle: "Mount Fuji",
     countryName: "japan".toUpperCase(),
@@ -30,7 +30,7 @@ const Data = [
   {
     id: 3,
     imageLink:
-      "https://images.unsplash.com/photo-1518638150340-f706e86654de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
+      "https://images.unsplash.com/photo-1568402102990-bc541580b59f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     image: "pyramid.jpg",
     altAndTitle: "Pyramid of the Sun",
     countryName: "mexico".toUpperCase(),
