@@ -2,16 +2,16 @@ const Data = [
   {
     id: 1,
     imageLink:
-      "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-    image: "mountain.jpg",
-    altAndTitle: "Mount Fuji",
-    countryName: "japan".toUpperCase(),
+      "https://images.unsplash.com/photo-1545853332-147d5073187e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    image: "london-eye.jpg",
+    altAndTitle: "The London Eye",
+    countryName: "london".toUpperCase(),
     hrefMapLInk:
-      "https://www.google.com/maps/place/Mount+Fuji/@35.3606422,138.7186086,15z/data=!3m1!4b1!4m5!3m4!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634",
-    startDate: "12 Jan, 2021",
-    endDate: "24 Jan, 2021",
+      "https://www.google.com/maps?q=London+Eye&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjw76-38rT1AhVEi1wKHSGkCeUQ_AUoAnoECAIQBA",
+    startDate: "30 November 2022",
+    endDate: "16 July 2030",
     paragraph:
-      "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists. The mountain is located about 100 km (62 mi) southwest of Tokyo and is visible from there on clear days. Mount Fuji's exceptionally symmetrical cone, which is covered in snow for about five months of the year, is commonly used as a cultural icon of Japan and it is frequently depicted in art and photography, as well as visited by sightseers and climbers.",
+      "The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually. It has made many appearances in popular culture.",
   },
   {
     id: 2,
@@ -44,16 +44,16 @@ const Data = [
   {
     id: 4,
     imageLink:
-      "https://images.unsplash.com/photo-1545853332-147d5073187e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-    image: "london-eye.jpg",
-    altAndTitle: "The London Eye",
-    countryName: "london".toUpperCase(),
+      "https://images.unsplash.com/photo-1578637387939-43c525550085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    image: "mountain.jpg",
+    altAndTitle: "Mount Fuji",
+    countryName: "japan".toUpperCase(),
     hrefMapLInk:
-      "https://www.google.com/maps?q=London+Eye&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjw76-38rT1AhVEi1wKHSGkCeUQ_AUoAnoECAIQBA",
-    startDate: "30 November 2022",
-    endDate: "16 July 2030",
+      "https://www.google.com/maps/place/Mount+Fuji/@35.3606422,138.7186086,15z/data=!3m1!4b1!4m5!3m4!1s0x6019629a42fdc899:0xa6a1fcc916f3a4df!8m2!3d35.3606255!4d138.7273634",
+    startDate: "12 Jan, 2021",
+    endDate: "24 Jan, 2021",
     paragraph:
-      "The London Eye, or the Millennium Wheel, is a cantilevered observation wheel on the South Bank of the River Thames in London. It is Europe's tallest cantilevered observation wheel, and is the most popular paid tourist attraction in the United Kingdom with over 3 million visitors annually. It has made many appearances in popular culture.",
+      "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists. The mountain is located about 100 km (62 mi) southwest of Tokyo and is visible from there on clear days. Mount Fuji's exceptionally symmetrical cone, which is covered in snow for about five months of the year, is commonly used as a cultural icon of Japan and it is frequently depicted in art and photography, as well as visited by sightseers and climbers.",
   },
 ];
 export default Data;
