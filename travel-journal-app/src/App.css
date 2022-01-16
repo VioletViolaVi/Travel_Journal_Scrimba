@@ -36,12 +36,13 @@ body {
 }
 
 /*************************************************************** main */
-.responsive-travel-holder {
-  margin-bottom: 5rem;
+.travel-holder {
+  margin: 2rem 2rem 8rem;
 }
 
 .image-holder {
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 
 .travel-image {
@@ -52,7 +53,6 @@ body {
 
 .travel-info {
   list-style: none;
-  margin: 2rem 1rem 0;
 }
 
 .first-info {
@@ -96,4 +96,13 @@ body {
 
 .location-para {
   line-height: 1.9rem;
+}
+
+/*************************************************************** media queries */
+@media (min-width: 500px) {
+  /* main */
+  .image-holder {
+    float: left;
+    margin-right: 2rem;
+  }
 }

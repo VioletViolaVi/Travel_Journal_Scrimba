@@ -1,6 +1,6 @@
 const Main = (props) => {
   return (
-    <section className="responsive-travel-holder">
+    <section className="travel-holder">
       <figure className="image-holder">
         <a href={props.imageLink} target="_blank" rel="noreferrer">
           <img

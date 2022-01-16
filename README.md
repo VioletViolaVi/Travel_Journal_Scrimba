@@ -24,3 +24,41 @@ This project is about creating a data driven Travel Journal displaying iconic lo
   - [Gardens by the Bay](https://en.wikipedia.org/wiki/Gardens_by_the_Bay)
   - [Pyramid of the Sun](https://en.wikipedia.org/wiki/Pyramid_of_the_Sun)
   - [The London Eye](https://en.wikipedia.org/wiki/London_Eye)
+
+/*************************************************************** media queries */
+@media (min-width: 700px) {
+  /* main */
+  .responsive-travel-holder {
+    margin: 2rem 0 6rem;
+  }
+
+  .image-holder {
+    float: left;
+    margin: 0 3rem;
+  }
+
+  .travel-image {
+    height: 23rem;
+    width: 17rem;
+  }
+}
+
+@media (min-width: 829px) {
+  /* main */
+  main .responsive-travel-holder:first-child {
+    margin-bottom: 11rem;
+  }
+
+  .location-para {
+    margin-bottom: 0rem;
+  }
+}
+
+@media (min-width: 1115px) {
+  /* main */
+  .responsive-travel-holder {
+    display: grid;
+    grid-template-areas: "myArea myArea";
+    align-items: center;
+  }
+}
