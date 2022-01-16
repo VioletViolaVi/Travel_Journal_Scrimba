@@ -51,6 +51,10 @@ body {
   border-radius: 1rem;
 }
 
+.travel-image:hover {
+  border: solid 0.5rem #f08080;
+}
+
 .travel-info {
   list-style: none;
 }
@@ -78,6 +82,12 @@ body {
   font-size: 1rem;
 }
 
+.map-link:hover {
+  font-size: 1.1rem;
+  color: #f08080;
+  border-bottom: solid 0.2rem #f08080;
+}
+
 .second-info {
   margin-bottom: 2rem;
 }
@@ -99,7 +109,7 @@ body {
 }
 
 /*************************************************************** media queries */
-@media (min-width: 500px) {
+@media (min-width: 557px) {
   /* main */
   .image-holder {
     float: left;
