@@ -22,7 +22,7 @@ body {
   align-items: center;
   height: 5rem;
   font-weight: bold;
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
 }
 
 .fas.fa-globe-americas {
@@ -36,6 +36,14 @@ body {
 }
 
 /*************************************************************** main */
+.responsive-travel-holder {
+  margin-bottom: 5rem;
+}
+
+.image-holder {
+  text-align: center;
+}
+
 .travel-image {
   height: 20rem;
   width: 14rem;
@@ -44,21 +52,23 @@ body {
 
 .travel-info {
   list-style: none;
-  margin-top: 1.5rem;
+  margin: 2rem 1rem 0;
 }
 
-.travel-info li:first-child {
-  margin-bottom: 1rem;
+.first-info {
+  margin-bottom: 1.5rem;
 }
 
 .fas.fa-map-marker-alt {
   color: #f08080;
   font-size: 1.5rem;
+  margin-right: 0.3rem;
 }
 
 .country-name {
   letter-spacing: 0.2rem;
   font-size: 1rem;
+  margin-right: 0.5rem;
 }
 
 .map-link {
@@ -68,7 +78,7 @@ body {
   font-size: 1rem;
 }
 
-.travel-info li:nth-child(2) {
+.second-info {
   margin-bottom: 2rem;
 }
 
@@ -76,15 +86,14 @@ body {
   font-size: 2rem;
 }
 
-.travel-info li:nth-child(3) {
-  margin-bottom: 0.8rem;
+.third-info {
+  margin-bottom: 1.5rem;
 }
 
-.date {
+.date-range {
   font-size: 1.2rem;
 }
 
 .location-para {
   line-height: 1.9rem;
-  margin-bottom: 2rem;
 }

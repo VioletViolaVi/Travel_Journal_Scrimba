@@ -9,10 +9,10 @@ function App() {
   });
 
   return (
-    <>
+    <div>
       <Header />
-      {dataInputtedMainComponent}
-    </>
+      <main>{dataInputtedMainComponent}</main>
+    </div>
   );
 }
 
